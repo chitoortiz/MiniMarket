@@ -9,6 +9,7 @@ using Random = UnityEngine.Random;
 
 public class NavigationScript : MonoBehaviour
 {
+    // PENE
     [SerializeField] private Transform eggIsle;
     [SerializeField] private Transform milkIsle;
     [SerializeField] private Transform queue;
